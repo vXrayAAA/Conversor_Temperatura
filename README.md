@@ -1,4 +1,3 @@
-# Conversor_Temperatura
 
 # Conversor de Temperatura em JavaScript
 
